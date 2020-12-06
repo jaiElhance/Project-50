@@ -1,0 +1,34 @@
+h1{
+    color: brown;
+}
+*{
+    border:solid;
+}
+
+.header{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.menu{
+    color: blue;
+}
+
+.images{
+    background-color: cyan;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.item{
+    background-color: aquamarine;
+}
+
+.ending{
+    background-color: burlywood;
+    text-align: center;
+}
